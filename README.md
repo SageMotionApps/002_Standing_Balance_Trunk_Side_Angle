@@ -1,4 +1,4 @@
-# 001 Standing Balance Trunk Side Angle
+# 002 Standing Balance Trunk Side Angle
 Measure and train trunk side angles during standing trials.
 
 ### Nodes Required: 3 
